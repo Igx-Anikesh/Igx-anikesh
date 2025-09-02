@@ -1,5 +1,4 @@
-# 💫 About Me:
-Anikesh Kumar
+Anikesh Kumar<br>
 Freelancer <br> Always ready to help you when you need most.
 <br>
 
