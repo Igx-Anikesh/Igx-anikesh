@@ -38,7 +38,7 @@ I optimize **decisions**.
 
 ##  Featured Work
 
-> Instead of listing everything, show **3 killer things**
+> 
 
 -  AniFrame — social + media platform
 -  AI-driven tools (experimental builds)
