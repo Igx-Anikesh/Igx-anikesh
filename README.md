@@ -1,4 +1,4 @@
-# ⚡ Anikesh — Building Things That Actually Matter
+#  Anikesh — Building Things That Actually Matter
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 What I Actually Do
+##  What I Actually Do
 
 I don’t just “build apps.”
 
@@ -28,7 +28,7 @@ I optimize **decisions**.
 
 ---
 
-## ⚔️ Current Focus
+##  Current Focus
 
 - System design (real-world, not textbook diagrams)
 - Performance engineering (frontend + backend)
@@ -36,17 +36,17 @@ I optimize **decisions**.
 
 ---
 
-## 🚀 Featured Work
+##  Featured Work
 
 > Instead of listing everything, show **3 killer things**
 
-- ⚡ AniFrame — social + media platform
-- 🧠 AI-driven tools (experimental builds)
-- 🎯 High-performance React systems
+-  AniFrame — social + media platform
+-  AI-driven tools (experimental builds)
+-  High-performance React systems
 
 ---
 
-## 🧩 Tech I Actually Use
+##  Tech I Actually Use
 
 **Core**
 `React` `Next.js` `Node` `TypeScript` `Supabase`
@@ -59,7 +59,7 @@ Only what I *need*, not what looks cool.
 
 ---
 
-## 📊 Signal, Not Noise
+##  Signal, Not Noise
 
 <div align="center">
 
@@ -69,7 +69,7 @@ Only what I *need*, not what looks cool.
 
 ---
 
-## 🤝 Work With Me
+##  Work With Me
 
 If you're building something serious:
 - startup
@@ -82,7 +82,7 @@ If it's just another CRUD clone — pass.
 
 ---
 
-## ⚡ Philosophy
+##  Philosophy
 
 > Clean UI is respect.  
 > Fast apps are honesty.  
