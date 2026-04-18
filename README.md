@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](#)
+[![Portfolio](igx-anikesh.vercel.app)](#)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](#)
 [![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](#)
 
