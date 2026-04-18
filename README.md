@@ -1,20 +1,97 @@
-<h1>Anikesh Kumar</h1><br>
-Freelancer 
-<br>
-Always ready to help you when you need most.
-<br>
+# ⚡ Anikesh — Building Things That Actually Matter
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anikesh_01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/igx_anikesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@geneclipse) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;System+Thinker;UI+Obsessed;I+Ship+Fast+and+Break+Less" />
 
-# 💻 Tech Stack:
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Igx-anikesh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Igx-anikesh&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Igx-anikesh&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](#)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail)](#)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Igx-anikesh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 What I Actually Do
+
+I don’t just “build apps.”
+
+I design systems that:
+- scale without collapsing  
+- feel fast, not just benchmark fast  
+- don’t become technical debt in 3 months  
+
+Most developers write code.  
+I optimize **decisions**.
+
+---
+
+## ⚔️ Current Focus
+
+- System design (real-world, not textbook diagrams)
+- Performance engineering (frontend + backend)
+- Building products, not just projects
+
+---
+
+## 🚀 Featured Work
+
+> Instead of listing everything, show **3 killer things**
+
+- ⚡ AniFrame — social + media platform
+- 🧠 AI-driven tools (experimental builds)
+- 🎯 High-performance React systems
+
+---
+
+## 🧩 Tech I Actually Use
+
+**Core**
+`React` `Next.js` `Node` `TypeScript` `Supabase`
+
+**Infra**
+`AWS` `Cloudflare` `Vercel`
+
+**Other**
+Only what I *need*, not what looks cool.
+
+---
+
+## 📊 Signal, Not Noise
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igx_anikesh&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🤝 Work With Me
+
+If you're building something serious:
+- startup
+- product
+- complex frontend
+
+I’m interested.
+
+If it's just another CRUD clone — pass.
+
+---
+
+## ⚡ Philosophy
+
+> Clean UI is respect.  
+> Fast apps are honesty.  
+> Scalable systems are discipline.
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=igx_anikesh&color=7aa2f7"/>
+
+</div>
