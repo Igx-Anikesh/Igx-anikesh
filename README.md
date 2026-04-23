@@ -89,15 +89,7 @@ I’m interested.
 
 *If it's just another CRUD clone — pass.*
 
----
 
-## ♟️ Philosophy
-
-> Clean UI is respect.  
-> Fast apps are honesty.  
-> Scalable systems are discipline.
-
----
 
 <div align="center">
   <br/>
