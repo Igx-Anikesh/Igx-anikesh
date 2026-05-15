@@ -51,14 +51,14 @@ I optimize **decisions**.
 **Core**  
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,supabase&theme=dark" alt="Core Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,cpp,mongodb,supabase&theme=dark" alt="Core Tech Stack" />
 </a>
 <br/><br/>
 
 **Infra**  
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel&theme=dark" alt="Infra Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,vercel,&theme=dark" alt="Infra Tech Stack" />
 </a>
 <br/><br/>
 
